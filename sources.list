@@ -1,0 +1,46 @@
+# 
+
+# deb-src cdrom:[Debian GNU/Linux 6.0.2.1 _Squeeze_ - Official Multi-architecture i386/amd64/source DVD #1 20110626-16:56]/ squeeze main
+# deb cdrom:[Debian GNU/Linux 6.0.2.1 _Squeeze_ - Official Multi-architecture i386/amd64/source DVD #1 20110626-16:56]/ squeeze main
+# 
+
+#deb-src cdrom:[Debian GNU/Linux 6.0.2.1 _Squeeze_ - Official Multi-architecture i386/amd64/source DVD #1 20110626-16:56]/ squeeze main
+#deb cdrom:[Debian GNU/Linux 6.0.2.1 _Squeeze_ - Official Multi-architecture i386/amd64/source DVD #1 20110626-16:56]/ squeeze main
+
+
+
+# deb http://ftp.daum.net/debian/ squeeze main non-free contrib
+# deb-src http://ftp.daum.net/debian/ squeeze main non-free sontrib
+
+deb http://archieve.debian.org/debian oldstable main contrib non-free
+
+deb http://ftp.debian.org/debian/ squeeze-updates main contrib non-free
+
+deb http://security.debian.org/ squeeze/updates main contrib non-free
+
+
+# deb http://ftp.debian.org/debian/ squeeze main
+# deb-src http://ftp.debian.org/debian/ squeeze main
+
+# deb http://security.debian.org/ squeeze/updates main
+# deb-src http://security.debian.org/ squeeze/updates main
+
+# squeeze-updates, previously known as 'volatile'
+# A network mirror was not selected during install.  The following entries
+# are provided as examples, but you should amend them as appropriate
+# for your mirror of choice.
+
+# deb http://ftp.debian.org/debian/ squeeze/updates main
+# deb-src http://ftp.debian.org/debian/ squeeze/updates main
+
+# deb http://security.debian.org/ squeeze/updates main contrib
+# deb-src http://security.debian.org/ squeeze/updates main contrib
+
+
+
+# deb http://ftp.daum.net/debian squeeze/updates main contrib
+# deb-src http://ftp.daum.net/debian squeeze/updates main contrib
+
+# deb http://ftp.daum.net/debian squeeze main contrib
+# deb-src http://ftp.daum.net/debian squeeze main contrib
+
